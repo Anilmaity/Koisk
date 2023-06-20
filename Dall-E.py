@@ -30,7 +30,7 @@ def Image_Genrate(Text):
 
 
 
-0
+
   initial_time = time.time()
   cv2.imshow("Image", cv2_image)
   cv2.waitKey(3000)
